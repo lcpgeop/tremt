@@ -1,0 +1,54 @@
+{
+  "@id": "/Plone",
+  "@type": "Plone Site",
+  "UID": "plone_site_root",
+  "allow_discussion": null,
+  "blocks": {
+    "5f31e9e4-173f-4ec1-ab48-64e9e2789b76": {
+      "@type": "title"
+    },
+    "c4f06c1a-9504-4844-a591-d13bf22230ef": {
+      "@type": "description"
+    },
+    "f719b0bd-1e8e-41ea-af08-232256eabb2a": {
+      "@type": "image",
+      "align": "center",
+      "alt": "",
+      "image_field": "image",
+      "size": "m",
+      "url": "resolveuid/a2477ce203eb4ffaa2704a54894474d7"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "5f31e9e4-173f-4ec1-ab48-64e9e2789b76",
+      "c4f06c1a-9504-4844-a591-d13bf22230ef",
+      "f719b0bd-1e8e-41ea-af08-232256eabb2a"
+    ]
+  },
+  "contributors": [],
+  "creators": [
+    "admin"
+  ],
+  "description": "Boas vindas a este treinamento",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "Plone",
+  "is_folderish": true,
+  "items_total": 6,
+  "language": "##DEFAULT##",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Luiz Carlos Pereira",
+  "type_title": "Plone Site",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

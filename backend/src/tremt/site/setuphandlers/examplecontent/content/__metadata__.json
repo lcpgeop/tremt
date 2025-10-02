@@ -1,0 +1,151 @@
+{
+  "__version__": "1.0.0",
+  "_blob_files_": [
+    "4c32bffbdd3b4335a666cbb4639956cb/image/14082024-pzzb1340.webp",
+    "17c36e3dac3243798d09d8f5b9f22cdf/image/186939_1.png",
+    "5e52200ec1b149d4a256cab40152b67c/image/imagem.jfif",
+    "13de729e3a0a49cfbc1887d8692df69f/image/Farol.jfif",
+    "a58ccead718140c1baa98d43595fc3e6/image/plone-foundation.png",
+    "a2477ce203eb4ffaa2704a54894474d7/image/Farol+de+Santo+Antonio+da+Barra+Foto+by+Tunisio+Alves+Filho+(4).jpg"
+  ],
+  "_data_files_": [
+    "plone_site_root/data.json",
+    "4c32bffbdd3b4335a666cbb4639956cb/data.json",
+    "17c36e3dac3243798d09d8f5b9f22cdf/data.json",
+    "a2477ce203eb4ffaa2704a54894474d7/data.json",
+    "13de729e3a0a49cfbc1887d8692df69f/data.json",
+    "5e52200ec1b149d4a256cab40152b67c/data.json",
+    "a720393b3c0240e5bd27c43fcd2cfd1e/data.json",
+    "a58ccead718140c1baa98d43595fc3e6/data.json"
+  ],
+  "default_page": {},
+  "local_permissions": {
+    "13de729e3a0a49cfbc1887d8692df69f": {},
+    "17c36e3dac3243798d09d8f5b9f22cdf": {},
+    "4c32bffbdd3b4335a666cbb4639956cb": {},
+    "5e52200ec1b149d4a256cab40152b67c": {},
+    "a2477ce203eb4ffaa2704a54894474d7": {},
+    "a58ccead718140c1baa98d43595fc3e6": {},
+    "a720393b3c0240e5bd27c43fcd2cfd1e": {},
+    "plone_site_root": {
+      "Add portal member": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner"
+        ]
+      },
+      "Content rules: Manage rules": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Set own password": {
+        "acquire": false,
+        "roles": [
+          "Authenticated",
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Set own properties": {
+        "acquire": false,
+        "roles": [
+          "Authenticated",
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Show Toolbar": {
+        "acquire": false,
+        "roles": [
+          "Authenticated"
+        ]
+      },
+      "plone.resource: Export ZIP file": {
+        "acquire": false,
+        "roles": [
+          "Manager"
+        ]
+      },
+      "plone.resourceeditor: Manage Sources": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator"
+        ]
+      }
+    }
+  },
+  "local_roles": {
+    "13de729e3a0a49cfbc1887d8692df69f": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "17c36e3dac3243798d09d8f5b9f22cdf": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "4c32bffbdd3b4335a666cbb4639956cb": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "5e52200ec1b149d4a256cab40152b67c": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "a2477ce203eb4ffaa2704a54894474d7": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "a58ccead718140c1baa98d43595fc3e6": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "a720393b3c0240e5bd27c43fcd2cfd1e": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "plone_site_root": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    }
+  },
+  "ordering": {
+    "13de729e3a0a49cfbc1887d8692df69f": 45,
+    "17c36e3dac3243798d09d8f5b9f22cdf": 43,
+    "4c32bffbdd3b4335a666cbb4639956cb": 42,
+    "5e52200ec1b149d4a256cab40152b67c": 44,
+    "a2477ce203eb4ffaa2704a54894474d7": 46,
+    "a58ccead718140c1baa98d43595fc3e6": 0,
+    "a720393b3c0240e5bd27c43fcd2cfd1e": 41
+  },
+  "relations": []
+}

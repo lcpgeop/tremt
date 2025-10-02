@@ -1,0 +1,39 @@
+{
+  "@id": "/186939_1.png",
+  "@type": "Image",
+  "UID": "17c36e3dac3243798d09d8f5b9f22cdf",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-10-02T13:32:28+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "186939_1.png",
+  "image": {
+    "blob_path": "17c36e3dac3243798d09d8f5b9f22cdf/image/186939_1.png",
+    "content-type": "image/png",
+    "filename": "186939_1.png",
+    "height": 486,
+    "size": 43763,
+    "width": 1129
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-10-02T13:32:28+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "186939_1.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

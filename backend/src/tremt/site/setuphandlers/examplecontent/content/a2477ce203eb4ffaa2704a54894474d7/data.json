@@ -1,0 +1,39 @@
+{
+  "@id": "/farol-de-santo-antonio-da-barra-foto-by-tunisio-alves-filho-4.jpg",
+  "@type": "Image",
+  "UID": "a2477ce203eb4ffaa2704a54894474d7",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-10-02T13:45:41+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "farol-de-santo-antonio-da-barra-foto-by-tunisio-alves-filho-4.jpg",
+  "image": {
+    "blob_path": "a2477ce203eb4ffaa2704a54894474d7/image/Farol+de+Santo+Antonio+da+Barra+Foto+by+Tunisio+Alves+Filho+(4).jpg",
+    "content-type": "image/jpeg",
+    "filename": "Farol+de+Santo+Antonio+da+Barra+Foto+by+Tunisio+Alves+Filho+(4).jpg",
+    "height": 1666,
+    "size": 942407,
+    "width": 2500
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-10-02T13:45:41+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Farol+de+Santo+Antonio+da+Barra+Foto+by+Tunisio+Alves+Filho+(4).jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

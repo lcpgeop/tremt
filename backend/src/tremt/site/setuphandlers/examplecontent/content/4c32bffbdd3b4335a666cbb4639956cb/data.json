@@ -1,0 +1,39 @@
+{
+  "@id": "/14082024-pzzb1340.webp",
+  "@type": "Image",
+  "UID": "4c32bffbdd3b4335a666cbb4639956cb",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-10-02T13:32:09+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "14082024-pzzb1340.webp",
+  "image": {
+    "blob_path": "4c32bffbdd3b4335a666cbb4639956cb/image/14082024-pzzb1340.webp",
+    "content-type": "image/webp",
+    "filename": "14082024-pzzb1340.webp",
+    "height": 270,
+    "size": 9896,
+    "width": 405
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-10-02T13:32:09+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "14082024-pzzb1340.webp",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,39 @@
+{
+  "@id": "/farol.jfif",
+  "@type": "Image",
+  "UID": "13de729e3a0a49cfbc1887d8692df69f",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-10-02T13:41:15+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "farol.jfif",
+  "image": {
+    "blob_path": "13de729e3a0a49cfbc1887d8692df69f/image/Farol.jfif",
+    "content-type": "image/jpeg",
+    "filename": "Farol.jfif",
+    "height": 177,
+    "size": 4958,
+    "width": 284
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-10-02T13:41:15+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Farol.jfif",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

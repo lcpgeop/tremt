@@ -1,0 +1,39 @@
+{
+  "@id": "/imagem.jfif",
+  "@type": "Image",
+  "UID": "5e52200ec1b149d4a256cab40152b67c",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-10-02T13:34:55+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "imagem.jfif",
+  "image": {
+    "blob_path": "5e52200ec1b149d4a256cab40152b67c/image/imagem.jfif",
+    "content-type": "image/jpeg",
+    "filename": "imagem.jfif",
+    "height": 183,
+    "size": 8676,
+    "width": 275
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-10-02T13:34:55+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "imagem.jfif",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}
